@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cmr39q1cr",
+    "category": "identity",
+    "text": "The user's name is Ankit Roy.",
+    "createdAt": "2026-09-16T05:56:03.556Z",
+    "updatedAt": "2026-09-16T05:56:03.556Z"
+  },
+  {
+    "id": "33q53fkfu",
+    "category": "preference",
+    "text": "The user asked if I can speak Bengali, showing an interest in that language.",
+    "createdAt": "2026-09-29T17:23:01.720Z",
+    "updatedAt": "2026-09-29T17:23:01.720Z"
+  }
+]
